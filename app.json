@@ -1,0 +1,17 @@
+{
+  "name": "myhealth",
+  "displayName": "myhealth",
+  "expo": {
+    "name": "myhealth",
+    "slug": "myhealth",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
